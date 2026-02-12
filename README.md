@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">Frontend Developer and full-stack web developer of the near future</h3>
+<h3 align="center">Full-stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atercan&label=Profile%20views&color=0e75b6&style=flat" alt="atercan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atercan" alt="atercan" /></a> </p>
-
-- 🌱 I’m currently learning **Backend / Django**
-
-- 👨‍💻 All of my projects are available at [https://ate-portfolio-next.vercel.app](https://ate-portfolio-next.vercel.app)
 
 - 📫 How to reach me **atercan0658@gmail.com**
 
